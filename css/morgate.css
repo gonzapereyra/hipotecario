@@ -1,0 +1,26 @@
+.alertaPorcentaje{
+ color: red;
+ background-color: black;
+}
+
+.tablaHead {
+    overflow-y: auto;
+    height: 200px;
+    text-align: left;
+    display: block;
+}
+.tableHead thead th {
+    position: relative;
+    top: 0;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    padding: 8px 16px;
+    border: 1px solid#CCC;
+}
+th{
+    background: #CCC;
+}
